@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driesc-1850394&label=Profile%20views&color=0e75b6&style=flat" alt="driesc-1850394" /> </p>
 
-- 🔭 I’m currently working on **A Connect Four Machine Learning Project**
+- 🔭 I’m currently not working on anything!
 
 - 🌱 I’m currently learning **Artificial Intelligence, Medical Computer Science and Human-Computer Interaction**
 
